@@ -2,6 +2,9 @@
 
 MageMan is a 2D game developed in C++ using SFML. The game features a complete animation system, collision system and more. The game includes a menu and several levels. The game has a variety of controls, including the ability to move, jump, shoot fireballs, take a screenshot, and toggle different display options.
 
+<img src="screenshots/game.png?raw=true" alt= “a” width="320" height="240">
+<img src="screenshots/game2.png?raw=true" alt= “a” width="320" height="240">
+
 ## Prerequisites
 
 Before running the game, you must have SFML installed on your system. You can download and install SFML from the official website: https://www.sfml-dev.org/.
