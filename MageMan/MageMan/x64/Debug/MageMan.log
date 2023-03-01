@@ -1,0 +1,21 @@
+﻿  Animation.cpp
+C:\Users\Ziad\source\repos\MageMan\MageMan\Animation.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Assets.cpp
+C:\Users\Ziad\source\repos\MageMan\MageMan\Assets.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Entity.cpp
+C:\Users\Ziad\source\repos\MageMan\MageMan\Animation.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  EntityManager.cpp
+C:\Users\Ziad\source\repos\MageMan\MageMan\Animation.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  GameEngine.cpp
+C:\Users\Ziad\source\repos\MageMan\MageMan\Assets.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  main.cpp
+C:\Users\Ziad\source\repos\MageMan\MageMan\Assets.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  MenuScene.cpp
+C:\Users\Ziad\source\repos\MageMan\MageMan\Scene.h(5,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Physics.cpp
+C:\Users\Ziad\source\repos\MageMan\MageMan\Animation.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  PlayScene.cpp
+C:\Users\Ziad\source\repos\MageMan\MageMan\Scene.h(5,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Scene.cpp
+C:\Users\Ziad\source\repos\MageMan\MageMan\Scene.h(5,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Generating Code...

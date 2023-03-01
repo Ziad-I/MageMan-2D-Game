@@ -1,0 +1,53 @@
+Texture TexStand Assets/images/mageman/mageIdle.png
+Texture TexRun Assets/images/mageman/mageRun.png
+Texture TexAir Assets/images/mageman/magejump.png
+Texture TexAttack Assets/images/mageman/mageAttack23.png
+Texture TexFireball Assets/images/mageman/Fireball.png
+Texture TexFloor1 Assets/images/floor/floor1.png
+Texture TexFloor2 Assets/images/floor/floor2.png
+Texture TexFloorEnd1 Assets/images/floor/floorEnd1.png
+Texture TexFloorEnd2 Assets/images/floor/floorEnd2.png
+Texture TexInside Assets/images/floor/inside.png
+Texture TexWall1 Assets/images/floor/wall1.png
+Texture TexWall2 Assets/images/floor/wall2.png
+Texture TexWalkway1 Assets/images/walkways/walkway1.png
+Texture TexWalkway2 Assets/images/walkways/walkway2.png
+Texture TexWalkway3 Assets/images/walkways/walkway3.png
+Texture TexWCrate Assets/images/misc/wCrate.png
+Texture TexMCrate Assets/images/misc/mCrate.png
+Texture TexBackground1 Assets/images/background/background1.png
+Texture TexBackground2 Assets/images/background/background2.png
+Texture TexBackground3 Assets/images/background/background3.png
+Texture TexGrass Assets/images/decor/Grass.png
+Texture TexLamp Assets/images/decor/lamp.png
+Texture TexShop Assets/images/decor/shop_anim.png
+Texture TexFence Assets/images/decor/Fence_1.png
+Texture TexBoom Assets/images/misc/explosion.png
+Texture TexPortal Assets/images/misc/portal.png
+Animation Stand TexStand 3 30
+Animation Run TexRun 4 10
+Animation Attack TexAttack 1 0
+Animation Air TexAir 2 5
+Animation Fireball TexFireball 4 10
+Animation Floor1 TexFloor1 1 0
+Animation Floor2 TexFloor2 1 0
+Animation FloorEnd1 TexFloorEnd1 1 0
+Animation FloorEnd2 TexFloorEnd2 1 0
+Animation Inside TexInside 1 0
+Animation Wall1 TexWall1 1 0
+Animation Wall2 TexWall2 1 0
+Animation Walkway1 TexWalkway1 1 0
+Animation Walkway2 TexWalkway2 1 0
+Animation Walkway3 TexWalkway3 1 0
+Animation WCrate TexWCrate 1 0
+Animation MCrate TexMCrate 1 0
+Animation Background1 TexBackground1 1 0
+Animation Background2 TexBackground2 1 0
+Animation Background3 TexBackground3 1 0
+Animation Shop TexShop 6 10
+Animation Fence TexFence 1 0
+Animation Lamp TexLamp 1 0
+Animation Grass TexGrass 1 0
+Animation Boom TexBoom 12 5
+Animation Portal TexPortal 5 5
+Font OpenSans Assets/fonts/OpenSans.ttf
